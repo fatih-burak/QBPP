@@ -31,5 +31,5 @@ Each folder follows a common structure:
 
 ## Instance format
 
-We did not generate the instances ourselves but we still provide them under the folder INSTANCES.
+We did not generate the instances ourselves but we still provide them under the INSTANCES.zip.
 They come from Chagas et al. (2026), https://onlinelibrary.wiley.com/doi/full/10.1111/itor.70237 and can also be downloaded from https://github.com/regor-unimore/Quadratic-Bin-Packing-Problem. 
